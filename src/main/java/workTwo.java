@@ -11,7 +11,7 @@ public class workTwo {
 
         printWordNTimes("Hellow", 7);
 
-        boolean replyThree = isLeapYearOrNot(800);
+        boolean replyThree = isLeapYearOrNot(1);
         System.out.println(replyThree);
 
     }
